@@ -191,7 +191,7 @@ span
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background: linear-gradient(to bottom,#DBE467,rgb(235, 227, 227));
+    background: linear-gradient(#DBE467,rgb(235, 227, 227));
 }
 .box
 {
